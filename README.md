@@ -22,7 +22,7 @@ The dataset used in this project contains reviews of various badminton products.
 ## Installation and Setup
 
 1. Clone the repository: git clone https://github.com/PurvaSamar13/Product-Review-Dashboard-using-Power-BI.git
-2. Navigate to the project directory: cd product-review-dashboard
+2. Navigate to the power bi file: https://github.com/PurvaSamar13/Product-Review-Dashboard-using-Power-BI/blob/main/Badminton%20products%20review.pbix
 3. Open the .pbix file in Power BI Desktop.
 
 ## Usage
