@@ -37,6 +37,4 @@ Contributions are welcome! Please read the contributing guidelines first.
 
 This project is licensed under the terms of the MIT license. See the LICENSE file for details.
 
-## Contact
 
-If you have any questions, feel free to reach out to me at your-email@example.com.
